@@ -1,2 +1,3 @@
 # Implementing-a-cloud-based-high-availability-architecture
-클라우드 기반 고가용성 아키텍처 구현 Team Project
+Notion
+https://www.notion.so/294ec80843ea80a089caf098d24ba0eb?source=copy_link
